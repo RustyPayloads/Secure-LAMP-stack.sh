@@ -12,7 +12,7 @@ Follow these steps to run the hardening script:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/YourUsername/Automated-Hardening-Script.git](https://github.com/YourUsername/Automated-Hardening-Script.git)
+    git clone [https://github.com/RustyPayloads/Automated-Hardening-Script.git](https://github.com/RustyPayloadse/Automated-Hardening-Script.git)
     cd Automated-Hardening-Script
     ```
 
